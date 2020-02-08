@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FornecedoresDDD.Dominio\FornecedoresDDD.Dominio.csproj" />
+    <ProjectReference Include="..\FornecedoresDDD.Infra.Dados\FornecedoresDDD.Infra.Dados.csproj" />
+  </ItemGroup>
+
+</Project>
